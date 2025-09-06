@@ -1,0 +1,9 @@
+================== DEPENDENCIES ==================
+
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+torch
